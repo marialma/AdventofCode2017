@@ -1,2 +1,5 @@
 # AdventofCode2017
-Advent of code!
+
+[http://adventofcode.com/](Advent of Code)
+
+I am not good at computer. Maybe these challenges will help me be better. 
